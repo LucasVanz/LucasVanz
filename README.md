@@ -1,7 +1,10 @@
 # 👋 Hello! My name is Lucas Vanzella.
 
+
 - 🔭 I am currently working on developing ERP systems
+  
 - 🔍 I always try to study some type of language other than the one I use on a daily basis.
+
 - 📖 I am a systems analysis student at Unisinos
   
 ## Contact:
