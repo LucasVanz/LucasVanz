@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Lucas Vanzella.
+#👓 Hello! My name is Lucas Vanzella.
 
 
 - 🔭 I am currently working on developing ERP systems
