@@ -1,15 +1,35 @@
-#  😎Hello! My name is Lucas Vanzella.
+## 👋 Hi! I'm Lucas Vanzella
 
+💻 Software Developer focused on **ERP systems**  
+🎓 Systems Analysis and Development student  
+📚 Constantly learning new languages and best practices  
+🚀 I enjoy turning business rules into real, working solutions
 
-- 🔭 I am currently working on developing ERP systems.
-  
-- 🔍 I always try to study some type of language other than the one I use on a daily basis.
+---
 
-- 📖 I am a systems analysis student at Unisinos.
-  
-## 📞 Contact:
-<div>
-<a href="https://www.instagram.com/lucasv_k/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lucasvanzellap2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-vanzella-192995248/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🛠️ Technologies I work with
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVanz&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanz&layout=compact&theme=dark)
+
+---
+
+## 📫 Get in touch
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+⭐ Feel free to explore my projects and leave a star if you like any of them!
