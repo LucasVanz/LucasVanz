@@ -18,9 +18,8 @@
 
 ## 📊 GitHub Stats
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVanz&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVanz&layout=compact&theme=dark)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasVanz&theme=dark" />
+<img height="170" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=LucasVanz&layout=compact&theme=dark" />
 
 ---
 
