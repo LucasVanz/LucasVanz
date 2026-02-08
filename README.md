@@ -24,8 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasVanz&theme=dark" />
-<img height="170" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=LucasVanz&layout=compact&theme=dark" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasVanz&theme=dark" /> <img height="170" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=LucasVanz&layout=compact&theme=dark" />
 
 ---
 
